@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sobhansalari
+- 👋 Hi, I’m sobhan salari
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...html&css
 <!---
